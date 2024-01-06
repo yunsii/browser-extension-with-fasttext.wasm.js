@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   fasttext.wasm.js:
-    specifier: 0.0.1-next.12
-    version: 0.0.1-next.12
+    specifier: 0.0.1-next.13
+    version: 0.0.1-next.13
   react:
     specifier: ^18.2.0
     version: 18.2.0
@@ -1478,8 +1478,8 @@ packages:
       reusify: 1.0.4
     dev: true
 
-  /fasttext.wasm.js@0.0.1-next.12:
-    resolution: {integrity: sha512-UdhEQqjTsnGf32kx3Lo6gXn9hogsra2EvudVAGCnlAxWYJCPsuyuh00FC7IrJA/gwrD7w73m94+5yQa6xZgOJg==}
+  /fasttext.wasm.js@0.0.1-next.13:
+    resolution: {integrity: sha512-Xxv7sd1+tjxaglqvIxcLm0ubFFEyc1CxQSmhzvwtMQZ9FzN9bEvWDsK+oNNGaacUg4aJWuVG7B7m5bH/ncOzuA==}
     dependencies:
       '@types/emscripten': 1.39.10
     dev: false
