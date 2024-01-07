@@ -8,7 +8,7 @@ export default defineBackground(() => {
     await lidModel.load();
     const text = "中文测试";
     const result = await lidModel.identify(text);
-    console.log(result, text); // 'en'
+    console.log(result, text);
   }
 
   fastText();
